@@ -13,9 +13,9 @@ Jupyter Lab
 
 
 # File Reference:
-|Topic                                 | File                                                       |Description                            |  
-| ----------------                     | ----                                                       | -----------                           |
-|Exit Ticket Data Analysis             | [exit_tickets.ipynb](exit_tickets.ipynb)| Learn about the hardware of computers.|
-|Feedback Form Data Analysis           | [feedback_form.ipynb](1000_programming_languages/1001_programming_language_theory.pdf)|Theory behind compiled and interpreted languages.|
-|Student Questionnaire Data Analysis   | [student_questionnaire_analysis.ipynb](2000_the_internet/2001_the_internet_theory.pdf)| Theory notes on how the internet works|
-|Teacher Survey Data Analysis          | [teacher_survey.ipynb](3000_command_line/3001_command_line_theory.pdf)| Command line notes|
+|Topic                                 | File                                                                         |Description                         |  
+| ----------------                     | ----                                                                         | -----------                        |
+|Exit Ticket Data Analysis             | [exit_tickets.ipynb](exit_tickets.ipynb)                                     | Analyse student exit-ticket data.  |
+|Feedback Form Data Analysis           | [feedback_form.ipynb](feedback_form.ipynb)                                   | Analyse student feedback form data.|
+|Student Questionnaire Data Analysis   | [student_questionnaire_analysis.ipynb](student_questionnaire_analysis.ipynb) | Analyse student questionnaire data.|
+|Teacher Survey Data Analysis          | [teacher_survey.ipynb](teacher_survey.ipynb)                                 | Analyse teacher survey data.       |
