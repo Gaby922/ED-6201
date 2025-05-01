@@ -5,11 +5,11 @@ This repository contains the code used to create graphs for ED-6201 Practioner B
 
 ## Github Profile: https://github.com/Gaby922/ED-6201
 
-Languages Used: 
-Python
+**Languages Used:**
+ Python
 
-IDEs Used:
-Jupyter Lab
+**IDEs Used:**
+ Jupyter Lab
 
 
 # File Reference:
