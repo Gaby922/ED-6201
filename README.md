@@ -13,9 +13,9 @@ Jupyter Lab
 
 
 # File Reference:
-|Topic                 | File                                                       |Description                            |  
-| ----------------     | ----                                                       | -----------                           |
-|Computer Architecture | [0001_computer_architecture.pdf](0000_computer_architecture/0001_computer_architecture.pdf)| Learn about the hardware of computers.|
-|Programming Languages | [1001_programming_language_theory.pdf](1000_programming_languages/1001_programming_language_theory.pdf)|Theory behind compiled and interpreted languages.|
-|The Internet | [2001_the_internet_theory.pdf](2000_the_internet/2001_the_internet_theory.pdf)| Theory notes on how the internet works|
-|Command Line | [3001_command_line_theory.pdf](3000_command_line/3001_command_line_theory.pdf)| Command line notes|
+|Topic                                 | File                                                       |Description                            |  
+| ----------------                     | ----                                                       | -----------                           |
+|Exit Ticket Data Analysis             | [0001_computer_architecture.pdf](0000_computer_architecture/0001_computer_architecture.pdf)| Learn about the hardware of computers.|
+|Feedback Form Data Analysis           | [1001_programming_language_theory.pdf](1000_programming_languages/1001_programming_language_theory.pdf)|Theory behind compiled and interpreted languages.|
+|Student Questionnaire Data Analysis  | [2001_the_internet_theory.pdf](2000_the_internet/2001_the_internet_theory.pdf)| Theory notes on how the internet works|
+|Command Line                | [3001_command_line_theory.pdf](3000_command_line/3001_command_line_theory.pdf)| Command line notes|
